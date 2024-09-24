@@ -1,0 +1,20 @@
+Margherita	8
+Pepperoni	12
+BBQ Chicken	10
+Hawaiian	6
+Veggie Deluxe	7
+Meat Lover's	15
+Greek Pizza	9
+Taco Pizza	11
+Supreme	14
+Mushroom & Spinach	5
+Sausage & Peppers	13
+Garlic Parmesan	4
+Taco Pizza	3
+Pesto Chicken	10
+Philly Cheesesteak	7
+Supreme	6
+Greek Pizza	8
+Mushroom & Spinachh	9
+Bacon Cheeseburger	12
+Spicy Italian	10
